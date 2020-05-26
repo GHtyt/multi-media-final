@@ -1,0 +1,14 @@
+__pycache__/*
+data/*
+model/*
+bert/*
+gradcam/*
+runs/*
+test_model/*
+word2vec/*
+textcnn/*
+VGG19/*
+*.txt
+checkpoint
+create_input.py
+tokenization.py
